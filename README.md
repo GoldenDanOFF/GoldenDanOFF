@@ -26,25 +26,25 @@ I build global scalable infrastructures and automate business processes. Passion
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GoldenDanOFF&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=GoldenDanOFF&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GoldenDanOFF&show_icons=true"
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=GoldenDanOFF&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=GoldenDanOFF&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GoldenDanOFF&show_icons=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=GoldenDanOFF&theme=tokyonight"
+    srcset="https://streak-stats.demolab.com?user=GoldenDanOFF&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=GoldenDanOFF"
+    srcset="https://streak-stats.demolab.com?user=GoldenDanOFF"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenDanOFF&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=GoldenDanOFF&theme=tokyonight" />
 </picture>
 
 ### 📫 Connect With Me
