@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Golden
+# 👋 Hi, I'm GoldenDan
 
 ## 👨‍💻 Infrastructure Engineer & Founder
 
