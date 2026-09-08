@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Build a more open world">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#050608"/>
+      <stop offset=".5" stop-color="#171006"/>
+      <stop offset="1" stop-color="#050608"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8c641d"/><stop offset=".5" stop-color="#ffe17d"/><stop offset="1" stop-color="#8c641d"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#ffc74a" stop-opacity=".22"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="170" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="170" rx="18" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="168" rx="17" fill="none" stroke="#d5a53c" stroke-opacity=".3"/>
+  <path d="M0 150 L92 112 L145 134 L231 85 L296 125 L370 94 L439 142 L521 110 L600 145 L681 102 L756 137 L830 90 L918 133 L1001 108 L1070 139 L1200 96 L1200 170 L0 170Z" fill="#090a0b" stroke="#bd8a28" stroke-opacity=".35"/>
+  <g transform="translate(600 88)">
+    <path d="M-25 14 L-39 -7 L-16 4 L0 -26 L16 4 L39 -7 L25 14 Z" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M-24 15 Q0 26 24 15" fill="none" stroke="url(#gold)" stroke-width="3"/>
+  </g>
+  <text x="600" y="42" text-anchor="middle" fill="#f1c75c" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="7">BUILD A MORE OPEN WORLD</text>
+  <text x="600" y="139" text-anchor="middle" fill="#9f7d35" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="5">INFRASTRUCTURE · IDEAS · IMPACT</text>
+</svg>
