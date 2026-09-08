@@ -1,145 +1,165 @@
-<h1 align="center">👋 Hi, I'm Dan — aka Golden Dan</h1>
+<div align="center">
 
-<h3 align="center">Infrastructure & Network Engineer · Solo Founder</h3>
+<img src="./assets/header.svg" width="100%" alt="Golden Dan — Infrastructure, Networking, AI, Automation" />
 
-<p align="center">
-I design, build, and operate <b>censorship-resistant network infrastructure</b> at scale —<br/>
-and automate the entire business around it, from payments to monitoring, end to end.
-</p>
+<br/>
 
-<p align="center">
-🌐 Linux networking & anti-DPI transport protocols &nbsp;·&nbsp; 🐍 Python backend & automation &nbsp;·&nbsp; 🤖 AI agent orchestration
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=F2C14E&center=true&vCenter=true&width=760&lines=Building+resilient+infrastructure+for+a+more+open+internet.;Networking+%C2%B7+Automation+%C2%B7+AI-powered+operations.;Build+it.+Secure+it.+Automate+it.+Scale+it." alt="Typing SVG" />
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-GoldenDanOFF-17130A?style=for-the-badge&logo=telegram&logoColor=F2C14E)](https://t.me/goldendanoff)
+[![VPNGOLD](https://img.shields.io/badge/VPNGOLD-vpngold.ru-17130A?style=for-the-badge&logo=protonvpn&logoColor=F2C14E)](https://vpngold.ru)
+[![Profile Views](https://komarev.com/ghpvc/?username=GoldenDanOFF&style=for-the-badge&color=B8862B&label=PROFILE+VIEWS)](https://github.com/GoldenDanOFF)
+
+</div>
+
+---
+
+## 👑 About Me
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**Founder & Infrastructure Engineer** focused on networking, automation and AI-powered operations.
+
+I build and operate **VPNGOLD**, design resilient network infrastructure, automate repetitive operations end to end, and experiment with AI agents that can work alongside real production systems.
+
+> **Technology should give people more freedom, not less.**
+
+</td>
+<td width="35%" valign="top">
+
+**Focus** — Infrastructure & AI  
+**Building** — VPNGOLD  
+**Learning** — Always  
+**Goal** — More freedom online
+
+</td>
+</tr>
+</table>
+
+### ⚡ What I work on
+
+<table>
+<tr>
+<td align="center" width="25%"><b>🌐 Networking</b><br/><sub>Xray · VLESS · REALITY<br/>routing · anti-DPI</sub></td>
+<td align="center" width="25%"><b>🖥️ Infrastructure</b><br/><sub>Linux · Docker · Nginx<br/>monitoring · recovery</sub></td>
+<td align="center" width="25%"><b>⚙️ Automation</b><br/><sub>Python · APIs · CI/CD<br/>bots · operations</sub></td>
+<td align="center" width="25%"><b>🧠 AI Systems</b><br/><sub>LLMs · agents · orchestration<br/>analysis · tooling</sub></td>
+</tr>
+</table>
 
 ---
 
-### 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🧩 **Solo founder & operator** of a global VPN service — I run product, infrastructure, backend, support, and sales myself.
-- 🛰️ **Network engineering specialist**: VLESS / REALITY transports, anti-DPI evasion, Xray routing standards, and traffic engineering across a worldwide fleet.
-- 🤖 I build **automated Telegram bots** with native payment integrations (subscriptions, Telegram Stars, direct API billing).
-- ⚙️ Obsessed with **automation, CI/CD, and observability** — if a task happens twice, it gets scripted.
-- 🧠 Exploring **AI agent orchestration** — multi-model pipelines and autonomous agents that operate real infrastructure.
-- 🎓 CS student — *Applied Informatics*, AI & Data Analysis track.
+<div align="center">
 
-### 📈 What I'm Building
+### Network & Systems
 
-- 🌍 **29 self-managed nodes across 11 countries** — provisioned, monitored, and routed from a single control plane.
-- 👥 **Thousands of active users** and **1,000+ paid customers** served end to end.
-- 🔄 Migrating the platform to a **next-generation control plane** with automated provisioning and DPI diagnostics.
-- 🧱 Building infra-as-standard: reproducible node bootstrap, encrypted disaster-recovery, and one-command restore.
+![Linux](https://img.shields.io/badge/Linux-17130A?style=for-the-badge&logo=linux&logoColor=F2C14E)
+![Xray](https://img.shields.io/badge/Xray_Core-17130A?style=for-the-badge&logo=wireguard&logoColor=F2C14E)
+![VLESS](https://img.shields.io/badge/VLESS_%2F_REALITY-17130A?style=for-the-badge&logo=protonvpn&logoColor=F2C14E)
+![WireGuard](https://img.shields.io/badge/WireGuard-17130A?style=for-the-badge&logo=wireguard&logoColor=F2C14E)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-17130A?style=for-the-badge&logo=cloudflare&logoColor=F2C14E)
+![Nginx](https://img.shields.io/badge/Nginx-17130A?style=for-the-badge&logo=nginx&logoColor=F2C14E)
 
-### 🛠 Tech Stack
+### Backend & Data
 
-**Languages**
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-17130A?style=for-the-badge&logo=python&logoColor=F2C14E)
+![FastAPI](https://img.shields.io/badge/FastAPI-17130A?style=for-the-badge&logo=fastapi&logoColor=F2C14E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17130A?style=for-the-badge&logo=postgresql&logoColor=F2C14E)
+![Redis](https://img.shields.io/badge/Redis-17130A?style=for-the-badge&logo=redis&logoColor=F2C14E)
+![Bash](https://img.shields.io/badge/Bash-17130A?style=for-the-badge&logo=gnubash&logoColor=F2C14E)
+![PowerShell](https://img.shields.io/badge/PowerShell-17130A?style=for-the-badge&logo=powershell&logoColor=F2C14E)
 
-**Networking & Anti-Censorship**
-&nbsp;
-![Xray](https://img.shields.io/badge/Xray%20core-000000?style=for-the-badge&logo=v&logoColor=white)
-![REALITY](https://img.shields.io/badge/VLESS%20%2F%20REALITY-6E40C9?style=for-the-badge&logo=protonvpn&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Cloudflare WARP](https://img.shields.io/badge/Cloudflare%20WARP-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![nftables](https://img.shields.io/badge/nftables%20%2F%20iptables-EE0000?style=for-the-badge&logo=linux&logoColor=white)
-![TCP/BBR](https://img.shields.io/badge/TCP%20tuning%20%2F%20BBR-4B275F?style=for-the-badge)
-![DPI Evasion](https://img.shields.io/badge/DPI%20Evasion-2C2C2C?style=for-the-badge)
+### DevOps & Automation
 
-**Linux & Systems**
-&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logo=systemd&logoColor=white)
-![OpenSSH](https://img.shields.io/badge/OpenSSH-211F1F?style=for-the-badge&logo=openssh&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW%20%2F%20fail2ban-005571?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-17130A?style=for-the-badge&logo=docker&logoColor=F2C14E)
+![Git](https://img.shields.io/badge/Git-17130A?style=for-the-badge&logo=git&logoColor=F2C14E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-17130A?style=for-the-badge&logo=githubactions&logoColor=F2C14E)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-17130A?style=for-the-badge&logo=telegram&logoColor=F2C14E)
+![REST](https://img.shields.io/badge/REST_APIs-17130A?style=for-the-badge&logo=fastapi&logoColor=F2C14E)
+![Monitoring](https://img.shields.io/badge/Observability-17130A?style=for-the-badge&logo=grafana&logoColor=F2C14E)
 
-**Infra & DevOps**
-&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+### AI & Agentic Workflows
 
-**Databases**
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-17130A?style=for-the-badge&logo=openai&logoColor=F2C14E)
+![Claude](https://img.shields.io/badge/Claude-17130A?style=for-the-badge&logo=anthropic&logoColor=F2C14E)
+![Gemini](https://img.shields.io/badge/Gemini-17130A?style=for-the-badge&logo=googlegemini&logoColor=F2C14E)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-17130A?style=for-the-badge&logo=githubcopilot&logoColor=F2C14E)
+![Agents](https://img.shields.io/badge/AI_Agent_Orchestration-17130A?style=for-the-badge&logo=robotframework&logoColor=F2C14E)
 
-**Backend & Bots**
-&nbsp;
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![python-telegram-bot](https://img.shields.io/badge/python--telegram--bot-26A5E4?style=for-the-badge&logo=python&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-1C92D2?style=for-the-badge&logo=telegram&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**AI & Automation**
-&nbsp;
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge)
-![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-1A1A1A?style=for-the-badge&logo=robotframework&logoColor=white)
-
-**Payments & E-commerce**
-&nbsp;
-![Telegram Stars](https://img.shields.io/badge/Telegram%20Stars-FFD700?style=for-the-badge&logo=telegram&logoColor=black)
-![YooKassa](https://img.shields.io/badge/YooKassa-6A2BdF?style=for-the-badge&logo=yandex&logoColor=white)
-![Digiseller](https://img.shields.io/badge/Digiseller-E2231A?style=for-the-badge)
-![GGSEL](https://img.shields.io/badge/GGSEL-0E76A8?style=for-the-badge)
-![Plati](https://img.shields.io/badge/Plati.market-1B8E3D?style=for-the-badge)
-
-**Platforms & Tools**
-&nbsp;
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Marzban](https://img.shields.io/badge/Marzban-1E40AF?style=for-the-badge&logo=v&logoColor=white)
-![RemnaWave](https://img.shields.io/badge/RemnaWave-6D28D9?style=for-the-badge)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-
-### 📊 GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=GoldenDanOFF&show_icons=true&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=GoldenDanOFF&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GoldenDanOFF&show_icons=true&hide_border=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=GoldenDanOFF&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=GoldenDanOFF&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=GoldenDanOFF&theme=tokyonight&hide_border=true" />
-</picture>
-
-### 📫 Connect With Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goldendanoff)
+</div>
 
 ---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoldenDanOFF&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=F2C14E&text_color=C9D1D9&icon_color=F2C14E" alt="GoldenDanOFF GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=GoldenDanOFF&hide_border=true&background=0D1117&ring=F2C14E&fire=F2C14E&currStreakLabel=F2C14E&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GoldenDanOFF streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenDanOFF&bg_color=0D1117&color=C9D1D9&line=F2C14E&point=FFE08A&area=true&area_color=7A5A18&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GoldenDanOFF contribution activity graph" />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+| | Project / Direction | What it means |
+|:--:|---|---|
+| 🛰️ | **VPNGOLD** | Resilient VPN infrastructure, routing and service automation |
+| 🤖 | **AI Agent Systems** | Multi-model workflows for engineering, research and operations |
+| 🧱 | **Infrastructure Automation** | Reproducible provisioning, monitoring, recovery and operational tooling |
+| 💬 | **Telegram Automation** | Bots, subscriptions, payments, support and internal workflows |
+
+---
+
+## 📌 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/GoldenDanOFF/Monitoring_Bot">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenDanOFF&repo=Monitoring_Bot&hide_border=true&bg_color=0D1117&title_color=F2C14E&text_color=C9D1D9&icon_color=F2C14E" alt="Monitoring_Bot" />
+</a>
+<a href="https://github.com/GoldenDanOFF/simpleanalysis">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenDanOFF&repo=simpleanalysis&hide_border=true&bg_color=0D1117&title_color=F2C14E&text_color=C9D1D9&icon_color=F2C14E" alt="simpleanalysis" />
+</a>
+
+<a href="https://github.com/GoldenDanOFF/contract-control-is">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GoldenDanOFF&repo=contract-control-is&hide_border=true&bg_color=0D1117&title_color=F2C14E&text_color=C9D1D9&icon_color=F2C14E" alt="contract-control-is" />
+</a>
+
+</div>
+
+---
+
+## 🔭 Current Direction
+
+```text
+network resilience  →  operational automation  →  AI-assisted infrastructure
+```
+
+- Making infrastructure **more reproducible and easier to recover**.
+- Building better **observability and incident-response tooling**.
+- Exploring where **AI agents are genuinely useful in production operations**.
+- Turning repetitive business and engineering workflows into **automated systems**.
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" alt="Build a more open world" />
+
+<br/>
+
+**`GoldenDanOFF`** · Infrastructure · Networking · Automation · AI
+
+</div>
