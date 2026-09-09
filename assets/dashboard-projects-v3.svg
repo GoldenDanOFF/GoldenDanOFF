@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 1430 1200 220" role="img" aria-label="GoldenDanOFF projects">
+<defs>
+<linearGradient id="dbg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="1650"><stop stop-color="#0A0E13"/><stop offset=".55" stop-color="#0D1218"/><stop offset="1" stop-color="#090D12"/></linearGradient>
+<linearGradient id="cardg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10161D"/><stop offset="1" stop-color="#0B1016"/></linearGradient>
+</defs>
+<style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#F0F3F6}.m{font-family:Segoe UI,Arial,sans-serif;fill:#9AA4AE}.g{font-family:Segoe UI,Arial,sans-serif;fill:#F2C14E}.title{font-size:29px;font-weight:800}.body{font-size:20px}.small{font-size:15px}.label{font-size:16px;font-weight:700}.card{fill:url(#cardg);stroke:#29313A;stroke-width:1.4}.goldcard{fill:url(#cardg);stroke:#76571D;stroke-width:1.7}</style>
+<rect x="0" y="1430" width="1200" height="220" fill="url(#dbg)"/>
+<text x="28" y="1445" class="g" font-size="25">♨</text><text x="68" y="1445" class="t title">Featured Projects</text>
+<line x1="28" y1="1465" x2="1172" y2="1465" stroke="#28323D"/>
+<rect x="30" y="1490" width="350" height="132" rx="10" class="card"/>
+<rect x="52" y="1514" width="34" height="34" rx="7" fill="#1F8FFF" fill-opacity=".18" stroke="#1F8FFF"/>
+<path d="M59 1521 H76 L82 1527 V1541 H59 Z M76 1521 V1528 H82" fill="none" stroke="#1F8FFF" stroke-width="2"/>
+<text x="102" y="1523" class="t" font-size="18" font-weight="800">VPNGOLD</text>
+<text x="102" y="1550" class="m" font-size="14">Resilient VPN infrastructure and</text><text x="102" y="1572" class="m" font-size="14">tools for a more open internet.</text>
+<text x="52" y="1602" class="g" font-size="13" font-weight="700">Infrastructure</text>
+<rect x="425" y="1490" width="350" height="132" rx="10" class="card"/>
+<rect x="447" y="1514" width="34" height="34" rx="7" fill="#8A5CF6" fill-opacity=".18" stroke="#8A5CF6"/>
+<path d="M454 1521 H471 L477 1527 V1541 H454 Z M471 1521 V1528 H477" fill="none" stroke="#8A5CF6" stroke-width="2"/>
+<text x="497" y="1523" class="t" font-size="18" font-weight="800">Monitoring_Bot</text>
+<text x="497" y="1550" class="m" font-size="14">Infrastructure monitoring</text><text x="497" y="1572" class="m" font-size="14">and automation.</text>
+<text x="447" y="1602" fill="#4DA3FF" font-family="Segoe UI,Arial" font-size="13">● Shell   ☆ 1   ⑂ 0</text>
+<rect x="820" y="1490" width="350" height="132" rx="10" class="card"/>
+<rect x="842" y="1514" width="34" height="34" rx="7" fill="#26A0E5" fill-opacity=".18" stroke="#26A0E5"/>
+<path d="M849 1521 H866 L872 1527 V1541 H849 Z M866 1521 V1528 H872" fill="none" stroke="#26A0E5" stroke-width="2"/>
+<text x="892" y="1523" class="t" font-size="18" font-weight="800">simpleanalysis</text>
+<text x="892" y="1550" class="m" font-size="14">Data analysis tools and</text><text x="892" y="1572" class="m" font-size="14">experiments.</text>
+<text x="842" y="1602" fill="#4DA3FF" font-family="Segoe UI,Arial" font-size="13">● Python   ☆ 1   ⑂ 0</text>
+</svg>
