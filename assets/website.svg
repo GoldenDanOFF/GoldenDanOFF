@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="104" viewBox="0 0 360 104">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#0A0D11"/></linearGradient></defs>
+<rect x="1" y="1" width="358" height="102" rx="14" fill="url(#g)" stroke="#6F521D" stroke-width="2"/>
+<circle cx="48" cy="52" r="25" fill="#181208" stroke="#F2C14E" stroke-opacity=".55"/>
+<text x="48" y="60" text-anchor="middle" font-size="26" font-family="Segoe UI Emoji,Arial">◆</text>
+<text x="86" y="42" fill="#F0F3F6" font-family="Segoe UI,Arial" font-size="16" font-weight="700">Website</text>
+<text x="86" y="67" fill="#F2C14E" font-family="Segoe UI,Arial" font-size="15" font-weight="700">vpngold.ru</text>
+</svg>
