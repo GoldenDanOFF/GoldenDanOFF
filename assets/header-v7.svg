@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="743" height="202" viewBox="0 0 743 202" role="img" aria-label="Golden Dan — Infrastructure Networking AI Automation">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#020304"/><stop offset=".52" stop-color="#070604"/><stop offset="1" stop-color="#030507"/></linearGradient>
+ <radialGradient id="sun" cx="50%" cy="28%" r="54%"><stop stop-color="#FFD871" stop-opacity=".35"/><stop offset=".35" stop-color="#B67818" stop-opacity=".12"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8E5D14"/><stop offset=".22" stop-color="#F2C14E"/><stop offset=".48" stop-color="#FFF0A1"/><stop offset=".72" stop-color="#D7911E"/><stop offset="1" stop-color="#765015"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="planet"><path d="M-40 205 A415 205 0 0 1 783 205 L783 202 L-40 202 Z"/></clipPath>
+</defs>
+<rect width="743" height="202" fill="url(#bg)"/>
+<rect width="743" height="202" fill="url(#sun)"/>
+<g clip-path="url(#planet)">
+ <path d="M-35 205 A410 196 0 0 1 778 205" fill="none" stroke="#6C4C17" stroke-width="1.2"/>
+ <path d="M-22 198 A397 183 0 0 1 765 198" fill="none" stroke="#F1BF46" stroke-opacity=".65" stroke-width="1"/>
+ <path d="M-6 183 A380 160 0 0 1 748 183" fill="none" stroke="#9C6B1C" stroke-opacity=".35"/>
+ <path d="M50 156 Q371 53 694 156" fill="none" stroke="#9A681B" stroke-opacity=".25"/>
+ <path d="M42 176 Q371 87 703 176" fill="none" stroke="#9A681B" stroke-opacity=".20"/>
+ <path d="M142 27 C235 71 276 120 288 205 M250 13 C320 75 340 130 343 205 M493 14 C423 74 405 131 401 205 M603 28 C508 73 468 122 456 205" fill="none" stroke="#805819" stroke-opacity=".20"/>
+ <path d="M58 93 l18-16 32-10 19 4 14-8 29 6 16 17 -11 9 6 11 -24 6 -10 16 -19-5 -11 10 -18-5 -8-14 -18-2 -9-11z" fill="#3A2A0F" stroke="#B27B20" stroke-opacity=".55"/>
+ <path d="M169 117 l22 4 16 14 -2 17 -11 12 -2 18 -10 13 -8-16 4-20 -12-14 -7-15z" fill="#33240C" stroke="#9C6B1C" stroke-opacity=".45"/>
+ <path d="M414 76 l23-14 31 2 12 8 31-4 30 13 5 11 22 4 17 14 -3 12 21 8 12 13 -13 12 -21-6 -17 7 -20-6 -9 12 -19-7 -8-18 -28-3 -17-17 -23-6 -8-12z" fill="#3A2A0F" stroke="#B27B20" stroke-opacity=".55"/>
+ <path d="M493 133 l25 5 13 14 -8 18 -18 15 -12-8 3-20 -10-12z" fill="#30220C" stroke="#996A1D" stroke-opacity=".45"/>
+ <path d="M599 151 l18-8 20 6 10 12 -10 7 -18-2 -15 5 -10-8z" fill="#2E210D" stroke="#8A5E18" stroke-opacity=".4"/>
+ <path d="M52 142 Q222 50 370 127 T690 125" fill="none" stroke="#F2C14E" stroke-opacity=".38"/>
+ <path d="M83 162 Q283 82 371 127 T661 160" fill="none" stroke="#D59827" stroke-opacity=".34"/>
+ <path d="M149 79 Q324 188 588 77" fill="none" stroke="#C18422" stroke-opacity=".25"/>
+ <g fill="#FFD25C" filter="url(#glow)"><circle cx="87" cy="127" r="1.8"/><circle cx="123" cy="108" r="1.4"/><circle cx="185" cy="91" r="1.5"/><circle cx="224" cy="129" r="1.5"/><circle cx="276" cy="110" r="1.3"/><circle cx="438" cy="111" r="1.5"/><circle cx="482" cy="92" r="1.4"/><circle cx="545" cy="108" r="1.5"/><circle cx="603" cy="126" r="1.8"/><circle cx="653" cy="141" r="1.5"/></g>
+</g>
+<g transform="translate(371 36)" filter="url(#glow)"><path d="M-28 15 L-43 -7 L-17 4 L0 -27 L17 4 L43 -7 L28 15 Z" fill="#0A0805" fill-opacity=".7" stroke="url(#gold)" stroke-width="3.3"/><path d="M-28 16 Q0 26 28 16" fill="none" stroke="url(#gold)" stroke-width="3.2"/></g>
+<text x="371" y="100" text-anchor="middle" fill="url(#gold)" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="900" letter-spacing="5.5">GOLDEN DAN</text>
+<text x="371" y="130" text-anchor="middle" fill="#F4D172" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="3">INFRASTRUCTURE   /   NETWORKING   /   AI   /   AUTOMATION</text>
+<text x="371" y="153" text-anchor="middle" fill="#D8A63C" font-family="Segoe UI,Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2.4">BUILD   ·   SECURE   ·   SCALE</text>
+<g fill="#E2B650" font-family="Georgia,serif" font-style="italic" font-size="10"><text x="710" y="35" text-anchor="end">More</text><text x="710" y="48" text-anchor="end">Freedom.</text><text x="710" y="61" text-anchor="end">A Smarter</text><text x="710" y="74" text-anchor="end">World</text></g>
+<rect x=".7" y=".7" width="741.6" height="200.6" rx="3" fill="none" stroke="#2A2417"/>
+</svg>
