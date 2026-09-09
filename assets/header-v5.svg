@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="202" viewBox="0 0 740 202" role="img" aria-label="Golden Dan">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050505"/><stop offset="1" stop-color="#090806"/></linearGradient>
+ <radialGradient id="halo" cx="50%" cy="40%" r="58%"><stop stop-color="#D99B25" stop-opacity=".25"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8E611A"/><stop offset=".22" stop-color="#F5C451"/><stop offset=".5" stop-color="#FFE79A"/><stop offset=".78" stop-color="#D99A28"/><stop offset="1" stop-color="#6C4712"/></linearGradient>
+ <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="earth"><ellipse cx="370" cy="205" rx="430" ry="116"/></clipPath>
+</defs>
+<rect width="740" height="202" rx="6" fill="url(#bg)"/><rect width="740" height="202" rx="6" fill="url(#halo)"/>
+<g clip-path="url(#earth)" fill="none" stroke="#D7A139">
+ <ellipse cx="370" cy="205" rx="430" ry="116" stroke-width="1.2" opacity=".65"/>
+ <ellipse cx="370" cy="205" rx="430" ry="82" opacity=".20"/>
+ <ellipse cx="370" cy="205" rx="430" ry="48" opacity=".15"/>
+ <ellipse cx="370" cy="205" rx="220" ry="116" opacity=".13"/>
+ <ellipse cx="370" cy="205" rx="90" ry="116" opacity=".12"/>
+ <path d="M-15 185 C92 111 184 108 250 132 S384 177 470 124 649 101 760 151" opacity=".42"/>
+ <path d="M-2 168 C102 120 180 145 244 127 S352 99 429 126 566 166 748 116" opacity=".26"/>
+ <path d="M35 151 L94 127 147 132 179 112 223 124 266 105 305 120 346 98 397 112 451 91 510 112 553 97 603 116 654 103 710 127" opacity=".22"/>
+ <path d="M53 177 C128 149 177 173 246 153 303 136 361 157 419 139 486 118 537 152 602 138 651 127 693 138 731 160" opacity=".18"/>
+ <path d="M58 166 l22-19 34-8 18 8 25-7 15 13-7 13-21 6-18 18-26-4-10-12-24 2z" fill="#C8912B" fill-opacity=".13" stroke-opacity=".35"/>
+ <path d="M188 140 l25-16 30 2 13 11 22 3 8 12-19 9-6 18-20 11-12-16-18-5-9-16z" fill="#C8912B" fill-opacity=".15" stroke-opacity=".38"/>
+ <path d="M415 130 l35-18 43 4 25 18 36 5 8 15-28 14-23-3-17 18-30-5-11-20-29-10z" fill="#C8912B" fill-opacity=".15" stroke-opacity=".38"/>
+ <path d="M550 150 l32-15 25 8 18 20-11 18-30 2-24-13z" fill="#C8912B" fill-opacity=".12" stroke-opacity=".32"/>
+</g>
+<g fill="#FFD66A" opacity=".75"><circle cx="72" cy="154" r="1.7"/><circle cx="113" cy="130" r="1.4"/><circle cx="166" cy="158" r="1.6"/><circle cx="218" cy="128" r="1.4"/><circle cx="284" cy="145" r="1.5"/><circle cx="332" cy="118" r="1.6"/><circle cx="406" cy="124" r="1.6"/><circle cx="465" cy="107" r="1.5"/><circle cx="526" cy="143" r="1.6"/><circle cx="591" cy="124" r="1.5"/><circle cx="656" cy="148" r="1.7"/><circle cx="704" cy="126" r="1.4"/></g>
+<g transform="translate(370 50)" filter="url(#glow)" fill="none" stroke="url(#gold)" stroke-width="3.4" stroke-linejoin="round"><path d="M-27 17 L-42 -8 L-16 4 L0 -31 L16 4 L42 -8 L27 17 Z"/><path d="M-27 17 Q0 31 27 17"/></g>
+<text x="370" y="112" text-anchor="middle" fill="url(#gold)" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="850" letter-spacing="6">GOLDEN DAN</text>
+<text x="370" y="139" text-anchor="middle" fill="#F2C14E" font-family="Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="750" letter-spacing="3">INFRASTRUCTURE  /  NETWORKING  /  AI  /  AUTOMATION</text>
+<text x="370" y="158" text-anchor="middle" fill="#D7A642" font-family="Segoe UI,Arial,sans-serif" font-size="8" font-weight="750" letter-spacing="2.4">BUILD · SECURE · SCALE</text>
+<g transform="translate(665 31) rotate(-5)" fill="#D7A642" font-family="Segoe Script,Bradley Hand,cursive" font-size="10" font-style="italic" opacity=".86"><text y="0">More Freedom.</text><text y="14">A Smarter</text><text y="28">World</text></g><line x1="0" y1="201" x2="740" y2="201" stroke="#3A2A0C"/></svg>
