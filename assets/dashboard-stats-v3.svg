@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="345" viewBox="0 860 1200 345" role="img" aria-label="GoldenDanOFF stats">
+<defs>
+<linearGradient id="dbg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="1650"><stop stop-color="#0A0E13"/><stop offset=".55" stop-color="#0D1218"/><stop offset="1" stop-color="#090D12"/></linearGradient>
+<linearGradient id="cardg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10161D"/><stop offset="1" stop-color="#0B1016"/></linearGradient>
+</defs>
+<style>.t{font-family:Segoe UI,Arial,sans-serif;fill:#F0F3F6}.m{font-family:Segoe UI,Arial,sans-serif;fill:#9AA4AE}.g{font-family:Segoe UI,Arial,sans-serif;fill:#F2C14E}.title{font-size:29px;font-weight:800}.body{font-size:20px}.small{font-size:15px}.label{font-size:16px;font-weight:700}.card{fill:url(#cardg);stroke:#29313A;stroke-width:1.4}.goldcard{fill:url(#cardg);stroke:#76571D;stroke-width:1.7}</style>
+<rect x="0" y="860" width="1200" height="345" fill="url(#dbg)"/>
+<text x="28" y="875" class="g" font-size="25">◎</text><text x="68" y="875" class="t title">GitHub Stats</text>
+<line x1="28" y1="895" x2="1172" y2="895" stroke="#28323D"/>
+<rect x="30" y="925" width="310" height="210" rx="11" class="goldcard"/>
+<text x="56" y="960" class="g label">Total Stats</text>
+<text x="60" y="1010" class="t" font-size="30" font-weight="900">1.5K+</text><text x="60" y="1035" class="m small">Contributions</text><text x="195" y="1010" class="t" font-size="30" font-weight="900">4</text><text x="195" y="1035" class="m small">Public repos</text><text x="60" y="1080" class="t" font-size="30" font-weight="900">4</text><text x="60" y="1105" class="m small">Repo stars</text><text x="195" y="1080" class="t" font-size="30" font-weight="900">2</text><text x="195" y="1105" class="m small">Followers</text><rect x="365" y="925" width="420" height="210" rx="11" class="goldcard"/>
+<text x="392" y="960" class="g label">Most Used Languages</text>
+<rect x="393" y="991" width="10" height="10" rx="2" fill="#F2C14E"/><text x="417" y="1002" class="t small">Python</text><text x="535" y="1002" class="m small">34%</text>
+<rect x="393" y="1025" width="10" height="10" rx="2" fill="#C5C0A7"/><text x="417" y="1036" class="t small">JavaScript</text><text x="535" y="1036" class="m small">33%</text>
+<rect x="393" y="1059" width="10" height="10" rx="2" fill="#766D52"/><text x="417" y="1070" class="t small">Shell</text><text x="535" y="1070" class="m small">33%</text>
+<circle cx="675" cy="1030" r="62" fill="none" stroke="#2B333C" stroke-width="24"/>
+<circle cx="675" cy="1030" r="62" fill="none" stroke="#F2C14E" stroke-width="24" stroke-dasharray="132 390" stroke-dashoffset="0" transform="rotate(-90 675 1030)"/>
+<circle cx="675" cy="1030" r="62" fill="none" stroke="#C5C0A7" stroke-width="24" stroke-dasharray="128 390" stroke-dashoffset="-132" transform="rotate(-90 675 1030)"/>
+<circle cx="675" cy="1030" r="62" fill="none" stroke="#766D52" stroke-width="24" stroke-dasharray="128 390" stroke-dashoffset="-260" transform="rotate(-90 675 1030)"/>
+<polyline points="667.1,1033.6 662.4,1027.3 670.0,1030.5 675.0,1020.6 680.0,1030.5 687.6,1027.3 682.9,1033.6" fill="none" stroke="#F2C14E" stroke-width="0.9" stroke-linejoin="round"/>
+<path d="M 667.3 1034.0 Q 675.0 1037.6 682.7 1034.0" fill="none" stroke="#F2C14E" stroke-width="0.9" stroke-linecap="round"/>
+<rect x="810" y="925" width="360" height="210" rx="11" class="goldcard"/>
+<text x="838" y="960" class="g label">Streak</text>
+<text x="840" y="1015" class="g" font-size="31">♨</text><text x="885" y="1014" class="t" font-size="34" font-weight="900">4</text>
+<text x="885" y="1040" class="m small">Days in a row</text>
+<text x="1080" y="1018" class="g" font-size="34">♨</text>
+<line x1="840" y1="1090" x2="1140" y2="1090" stroke="#29313A"/><rect x="846" y="1082" width="13" height="8" rx="2" fill="#F2C14E" fill-opacity="0.45"/><rect x="869" y="1078" width="13" height="12" rx="2" fill="#F2C14E" fill-opacity="0.49"/><rect x="892" y="1074" width="13" height="16" rx="2" fill="#F2C14E" fill-opacity="0.53"/><rect x="915" y="1077" width="13" height="13" rx="2" fill="#F2C14E" fill-opacity="0.57"/><rect x="938" y="1066" width="13" height="24" rx="2" fill="#F2C14E" fill-opacity="0.61"/><rect x="961" y="1070" width="13" height="20" rx="2" fill="#F2C14E" fill-opacity="0.65"/><rect x="984" y="1062" width="13" height="28" rx="2" fill="#F2C14E" fill-opacity="0.69"/><rect x="1007" y="1057" width="13" height="33" rx="2" fill="#F2C14E" fill-opacity="0.73"/><rect x="1030" y="1059" width="13" height="31" rx="2" fill="#F2C14E" fill-opacity="0.77"/><rect x="1053" y="1048" width="13" height="42" rx="2" fill="#F2C14E" fill-opacity="0.81"/><rect x="1076" y="1036" width="13" height="54" rx="2" fill="#F2C14E" fill-opacity="0.85"/><rect x="1099" y="1018" width="13" height="72" rx="2" fill="#F2C14E" fill-opacity="0.89"/><text x="840" y="1122" class="m small">Keep going! 🔥</text>
+</svg>
