@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="250" viewBox="0 0 740 250" role="img" aria-label="Golden Dan">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#030405"/><stop offset=".58" stop-color="#090704"/><stop offset="1" stop-color="#050607"/></linearGradient>
+ <radialGradient id="halo" cx="50%" cy="44%" r="55%"><stop stop-color="#FFD25B" stop-opacity=".26"/><stop offset=".42" stop-color="#C8891B" stop-opacity=".09"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#A66E17"/><stop offset=".28" stop-color="#FFE17C"/><stop offset=".52" stop-color="#FFF0A8"/><stop offset=".78" stop-color="#D79B2A"/><stop offset="1" stop-color="#855815"/></linearGradient>
+ <clipPath id="globe"><ellipse cx="370" cy="162" rx="390" ry="112"/></clipPath>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="740" height="250" rx="14" fill="url(#bg)"/>
+<rect width="740" height="250" rx="14" fill="url(#halo)"/>
+<g clip-path="url(#globe)">
+  <ellipse cx="370" cy="173" rx="402" ry="115" fill="#080806" stroke="#7E5A1B" stroke-width="1"/>
+  <ellipse cx="370" cy="173" rx="402" ry="115" fill="none" stroke="#C9912A" stroke-opacity=".50" stroke-width="1.2"/>
+  <ellipse cx="370" cy="173" rx="330" ry="92" fill="none" stroke="#8D6720" stroke-opacity=".35"/>
+  <ellipse cx="370" cy="173" rx="250" ry="68" fill="none" stroke="#8D6720" stroke-opacity=".26"/>
+  <path d="M-20 174 H760 M-10 146 H750 M10 202 H730" stroke="#8D6720" stroke-opacity=".22"/>
+  <path d="M140 79 C205 116 229 151 222 224 M252 62 C299 112 309 164 300 238 M370 53 C370 107 370 165 370 241 M488 63 C441 112 431 164 440 238 M600 79 C535 116 511 151 518 224" stroke="#7E5A1B" stroke-opacity=".25" fill="none"/>
+  <path d="M92 137 l27-18 34 4 21 17 -9 16 -23 2 -13 18 -21-5 -7-17 -19-3z" fill="#513910" stroke="#B67E1C" stroke-opacity=".55"/>
+  <path d="M165 165 l22 6 15 18 -7 29 -17 18 -11-13 4-24 -12-14z" fill="#4B3410" stroke="#A66E17" stroke-opacity=".5"/>
+  <path d="M488 126 l30-19 38 3 16 17 -8 14 20 7 18 19 -11 14 -24-6 -14 10 -17-6 -9-19 -25-6z" fill="#513910" stroke="#B67E1C" stroke-opacity=".55"/>
+  <path d="M568 174 l29 6 10 20 -18 24 -18-7 -7-19z" fill="#4B3410" stroke="#A66E17" stroke-opacity=".5"/>
+  <path d="M620 195 l18-7 19 9 -5 13 -21 1z" fill="#4B3410" stroke="#A66E17" stroke-opacity=".5"/>
+  <path d="M82 172 Q246 65 380 159 T671 148" fill="none" stroke="#F2C14E" stroke-opacity=".55"/>
+  <path d="M102 194 Q290 103 376 157 T648 186" fill="none" stroke="#C98A1D" stroke-opacity=".4"/>
+  <path d="M170 112 Q342 213 573 113" fill="none" stroke="#C98A1D" stroke-opacity=".34"/>
+</g>
+<g fill="#FFD45F"><circle cx="126" cy="154" r="2"/><circle cx="196" cy="124" r="1.5"/><circle cx="253" cy="165" r="1.5"/><circle cx="493" cy="146" r="1.6"/><circle cx="587" cy="156" r="2"/><circle cx="641" cy="178" r="1.4"/></g>
+<g transform="translate(370 46)" filter="url(#glow)"><path d="M-32 18 L-48 -6 L-18 6 L0 -27 L18 6 L48 -6 L32 18 Z" fill="none" stroke="url(#gold)" stroke-width="3.8" stroke-linejoin="round"/><path d="M-31 19 Q0 31 31 19" fill="none" stroke="url(#gold)" stroke-width="3.8"/></g>
+<text x="370" y="105" text-anchor="middle" fill="url(#gold)" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="900" letter-spacing="6">GOLDEN DAN</text>
+<text x="370" y="132" text-anchor="middle" fill="#E8C76D" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="800" letter-spacing="3.2">INFRASTRUCTURE  /  NETWORKING  /  AI  /  AUTOMATION</text>
+<text x="370" y="152" text-anchor="middle" fill="#B98A31" font-family="Segoe UI,Arial,sans-serif" font-size="9" font-weight="800" letter-spacing="2.6">BUILD  ·  SECURE  ·  SCALE</text>
+<text x="684" y="52" text-anchor="end" fill="#D7AE50" font-family="Georgia,serif" font-size="10" font-style="italic">More freedom.</text><text x="684" y="65" text-anchor="end" fill="#D7AE50" font-family="Georgia,serif" font-size="10" font-style="italic">A smarter</text><text x="684" y="78" text-anchor="end" fill="#D7AE50" font-family="Georgia,serif" font-size="10" font-style="italic">world.</text>
+<rect x=".7" y=".7" width="738.6" height="248.6" rx="13.3" fill="none" stroke="#2A2418"/>
+</svg>
